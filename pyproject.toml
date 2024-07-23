@@ -25,7 +25,7 @@ dependencies = [
     "black>=24.1.0",
     "datasets>=2.16.1",
     "evaluate>=0.4.0",
-    "httpx==0.23.3",
+    "httpx>=0.23.3",
     "jsonlines",
     "numexpr",
     "numpy==1.26.4",
